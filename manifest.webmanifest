@@ -1,0 +1,10 @@
+{
+  "name": "BR Maintenance Izeaux",
+  "short_name": "BR Maintenance",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#b91c27",
+  "description": "Rondes et anomalies de maintenance — Izeaux"
+}
