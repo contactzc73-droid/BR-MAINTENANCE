@@ -1,0 +1,5 @@
+BR Maintenance V2.6 — Bons de travail sur fonds de page extraits du Word original.
+Copier index.html, manifest.webmanifest, sw.js et le dossier bt_trames (5 PNG) dans GitHub.
+IMPORTANT: sauvegarder les données JSON avant toute mise à jour.
+Les champs préremplis sont superposés au modèle original. Vérifier l'aperçu et l'impression A4.
+Les rapports et signatures restent à compléter sur papier.
